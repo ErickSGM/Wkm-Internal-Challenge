@@ -7,6 +7,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import {Firebase} from "@ionic-native/firebase";
+import {AppVersion} from "@ionic-native/app-version";
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import {Firebase} from "@ionic-native/firebase";
     StatusBar,
     SplashScreen,
     Firebase,
+    AppVersion,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })

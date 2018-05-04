@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "237857637043",
+    "firebase_url": "https://wkm-challenge-backend.firebaseio.com",
+    "project_id": "wkm-challenge-backend",
+    "storage_bucket": "wkm-challenge-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237857637043:android:c1f0dea8d7ee7e70",
+        "android_client_info": {
+          "package_name": "internal.wkm.challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237857637043-rk9jih076gqkjrrc1ctlim8ajcjleoj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQA3ZX1ExSVsxtyQzHDYw1O6HysdAkHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

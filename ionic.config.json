@@ -1,6 +1,6 @@
 {
   "name": "Wkm-Challenge-Ionic",
-  "app_id": "",
+  "app_id": "b51dd99d",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
